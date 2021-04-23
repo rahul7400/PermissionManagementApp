@@ -1,6 +1,8 @@
 # PermissionManagementApp
-This app helps you to find covid relief services near you.Like if a person is in the need of plasma or beds 
-in hospital or anything than this app will help you to do so.
+This app shows you all the permission that your installed app is asking for or your installed app is using without your permission.
+This app shows each and every permission that the app is using in the human readable form.
+# Google PlayStore Link
+https://play.google.com/store/apps/details?id=in.macrocodes.databasedemo
 
 # App Screenshots
 

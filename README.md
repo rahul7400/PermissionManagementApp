@@ -14,6 +14,7 @@ Search the name of the app in the <b>search box</b>.
 <img src="images/2.webp" width="250">
 
 Click on the app to view each and every permission which the app is using in your android device.
+
 <img src="images/3.webp" width="250">
 
 <img src="images/4.webp" width="250">

@@ -9,7 +9,9 @@ This app shows each and every permission that the app is using in the human read
 This app has no ads and do not contains any in app purchases and is totally free. So if you want you can give it a try.
 <img src="images/1.webp" width="250">
 
-Search the name of the app in the search box <img src="images/2.webp" width="250">
+Search the name of the app in the search box
+
+<img src="images/2.webp" width="250">
 
 
 <img src="images/3.webp" width="250">

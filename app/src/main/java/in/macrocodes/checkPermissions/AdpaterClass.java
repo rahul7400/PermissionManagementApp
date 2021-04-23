@@ -67,7 +67,10 @@ public class AdpaterClass extends RecyclerView.Adapter<AdpaterClass.Viewholder> 
 
 
 
-        holder.appIcon.setImageDrawable(icon);
+        if(icon !=null){
+            holder.appIcon.setImageDrawable(icon);
+        }
+
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

@@ -1,4 +1,5 @@
 # PermissionManagementApp
+<img src="images/icon.jpg" width="150">
 This app shows you all the permission that your installed app is asking for or your installed app is using without your permission.
 This app shows each and every permission that the app is using in the human readable form.
 # Google PlayStore Link
